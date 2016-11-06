@@ -19,4 +19,4 @@
 ## License
 The MIT license.
 
-Copyright (c) 2016 Stanislav Tsbetkov [tsvetkovpro](https://tsvetkovpro.github.io/)
+Copyright (c) 2016 [Stanislav Tsvetkov](https://tsvetkovpro.github.io/)
